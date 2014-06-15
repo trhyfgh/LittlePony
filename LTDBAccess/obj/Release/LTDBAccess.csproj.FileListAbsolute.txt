@@ -1,0 +1,4 @@
+d:\users\thain\documents\visual studio 2013\Projects\littleTian\LTDBAccess\bin\Release\LTDBAccess.dll
+d:\users\thain\documents\visual studio 2013\Projects\littleTian\LTDBAccess\bin\Release\LTDBAccess.pdb
+d:\users\thain\documents\visual studio 2013\Projects\littleTian\LTDBAccess\obj\Release\LTDBAccess.dll
+d:\users\thain\documents\visual studio 2013\Projects\littleTian\LTDBAccess\obj\Release\LTDBAccess.pdb

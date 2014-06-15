@@ -1,0 +1,7 @@
+d:\users\thain\documents\visual studio 2013\Projects\littleTian\Answers\bin\Release\Answers.dll
+d:\users\thain\documents\visual studio 2013\Projects\littleTian\Answers\bin\Release\Answers.pdb
+d:\users\thain\documents\visual studio 2013\Projects\littleTian\Answers\bin\Release\LTDBAccess.dll
+d:\users\thain\documents\visual studio 2013\Projects\littleTian\Answers\bin\Release\LTDBAccess.pdb
+d:\users\thain\documents\visual studio 2013\Projects\littleTian\Answers\obj\Release\Answers.csprojResolveAssemblyReference.cache
+d:\users\thain\documents\visual studio 2013\Projects\littleTian\Answers\obj\Release\Answers.dll
+d:\users\thain\documents\visual studio 2013\Projects\littleTian\Answers\obj\Release\Answers.pdb
